@@ -1,0 +1,25 @@
+.container {
+    color: transparent;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: lime;
+}
+
+.blue {
+    background-color: blue;
+}
+
+div {
+    border: solid white 2px;
+}
+
+@media screen and (min-width: 768px) {
+    .col-20 {
+        width: calc(100% / 5);
+    }
+}

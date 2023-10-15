@@ -1,0 +1,41 @@
+.container {
+    color: transparent;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: lime;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.orange {
+    background-color: rgba(255, 98, 0, 0.71);
+}
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
+.tall {
+    height: 80px;
+}
+
+.short {
+    height: 15px;
+}
+
+div {
+    border: solid white 2px;
+}
+
+@media screen and (min-width: 768px) {
+    .col-20 {
+        width: calc(100%/5)
+    }
+}
