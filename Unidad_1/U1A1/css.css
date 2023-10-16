@@ -1,7 +1,6 @@
 .container {
     background-color: yellow;
-    font-size: 24px;
-    color: black;
+    color: transparent;
     width: 650px;
 }
 
