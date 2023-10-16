@@ -1,0 +1,29 @@
+.container {
+    color: transparent;
+    width: 600px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: lime;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.orange {
+    background-color: rgba(255, 98, 0, 0.71);
+}
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
