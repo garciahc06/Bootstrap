@@ -1,36 +1,26 @@
-.container {
-    color: transparent;
-    width: 700px;
-}
-
 .red {
     background-color: red;
 }
 
 .green {
-    background-color: lime;
+    background-color: #249624;
 }
 
 .blue {
     background-color: blue;
 }
 
-.orange {
-    background-color: rgba(255, 98, 0, 0.71);
+h5 {
+    font-weight: 100;
+    font-size: 14px;
 }
 
-.fuchsia {
-    background-color: fuchsia;
+.img-header {
+    height: 40px;
+    width: 40px;
 }
 
-.tall {
-    height: 80px;
-}
-
-.short {
-    height: 15px;
-}
-
-div {
-    border: solid white 2px;
+.img-body {
+    height: 60px;
+    width: 60px;
 }

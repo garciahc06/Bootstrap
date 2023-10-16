@@ -26,9 +26,3 @@
 .fuchsia {
     background-color: fuchsia;
 }
-
-@media screen and (min-width: 768px) {
-    .col-20 {
-        width: calc(100%/5)
-    }
-}
