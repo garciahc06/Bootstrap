@@ -10,4 +10,16 @@
     background-color: blue;
 }
 
+.list-group-item {
+    height:  50px;
+    font-size: 12px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.89);
 
+}
+
+/*Quiero el último de item de list-group-item*/
+.list-group-item:last-child {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
