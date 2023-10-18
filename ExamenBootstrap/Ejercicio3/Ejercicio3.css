@@ -1,0 +1,45 @@
+.card-body {
+    height: 250px;
+    font-size: 24px;
+    padding-right: 50px;
+}
+
+h4{
+    font-size: 32px;
+}
+#primary {
+    border: 1px solid blue;
+}
+
+#danger, #hello{
+    background-color: rgba(190, 6, 6, 0.89);
+    color: white;
+}
+#hello {
+    background-color: #0066ff;
+}
+
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: lime;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.orange {
+    background-color: rgb(255, 98, 0);
+}
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
+.yellow {
+    background-color: yellow;
+}
